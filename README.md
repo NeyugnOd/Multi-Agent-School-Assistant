@@ -39,7 +39,7 @@ Trợ lý học đường sử dụng kiến trúc đa agent kết hợp RAG, ch
 
 ---
 
-## 🚀 Hướng Dẫn Chạy | Quick Start
+## Hướng Dẫn Chạy | Quick Start
 
 ### 1. Clone repo
 
